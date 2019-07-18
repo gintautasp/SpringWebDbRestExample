@@ -1,0 +1,6 @@
+pagal pvz: https://spring.io/guides/gs/accessing-data-mysql/
+reikia atlikti pakeitimus kurie čia užkleti nusiklonavus pvz kodą iš jų repozitotijos
+ir sukūrus duomen bazę kurios kūrimas ten aprašytas
+
+tada veikia ir normalaus html'inio puslapio krovimas ir RESTfull funkcionalumas
+
